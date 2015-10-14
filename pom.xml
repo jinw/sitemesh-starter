@@ -11,7 +11,7 @@
     <dependency>
       <groupId>org.sitemesh</groupId>
       <artifactId>sitemesh</artifactId>
-      <version>3.0.0</version>
+      <version>3.0.1</version>
     </dependency>
   </dependencies>
 
@@ -21,7 +21,7 @@
       <plugin>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-maven-plugin</artifactId>
-        <version>9.2.3.v20140905</version>
+        <version>9.3.5.v20151012</version>
       </plugin>
     </plugins>
   </build>
